@@ -1,0 +1,19 @@
+t = int(input())
+
+while t > 0:
+    n = int(input())
+    s = input()
+    # Your code goes here
+    i=0
+      while (i<n):
+        if(s[i]==0 and s[i+1]==0):
+        x=append(A)
+         elif(s[i]==0 and s[i+1]==1):
+          x=append(T)
+           elif(s[i]==1 and s[i+1]==0):
+            x=append(C)
+             elif(s[i]==1 and s[i+1]==1):
+             x=append(G)
+  i =+2
+  print(x)
+  t =-1
